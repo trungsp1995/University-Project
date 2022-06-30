@@ -1,3 +1,5 @@
 This project uses the Breast Cancer Dataset from Sklearn
 
 This is the link of this dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+
+A more detailed description of the parameters can be found in document TR1131.pdf
