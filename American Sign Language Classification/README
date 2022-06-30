@@ -1,1 +1,12 @@
+Name: The Trung Le
+
+This code is running in Jupyter Notebook
+
+Training file and test file can be downloaded from this link: https://drive.google.com/drive/folders/1Ng98HHFyQVaIIHARDO5peIxG5JHN8qZF?usp=sharing
+
+sign_mnist_train.csv is training file
+sign_mnist_test.csv is test file
+
+The American Sign Language is explained at american_sign_language.PNG
+
 
